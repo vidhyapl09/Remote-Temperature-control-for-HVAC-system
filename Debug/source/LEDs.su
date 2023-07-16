@@ -1,3 +1,0 @@
-../source/LEDs.c:36:6:Init_RGB_LEDs	8	static
-../source/LEDs.c:65:6:Control_RGB_LEDs	24	static
-../source/LEDs.c:104:6:LED_testing	24	static

@@ -1,2 +1,0 @@
-../source/PWM.c:33:6:initPWM	8	static
-../source/PWM.c:54:6:setMotorSpeed	24	static

@@ -1,5 +1,0 @@
-../source/test_funcs.c:51:6:led_test_func	40	static
-../source/test_funcs.c:123:6:accelerometer_test_func	208	static
-../source/test_funcs.c:188:13:accelerometer_mode	16	static
-../source/test_funcs.c:228:6:I2C_test_func	8	static
-../source/test_funcs.c:252:6:Temperature_test_func	8	static

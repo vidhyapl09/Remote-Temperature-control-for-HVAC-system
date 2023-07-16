@@ -1,7 +1,0 @@
-../source/command_processing.c:72:13:my_printf	24	static
-../source/command_processing.c:114:6:command_process	72	static
-../source/command_processing.c:189:13:author_func	24	static
-../source/command_processing.c:208:13:help_func	24	static
-../source/command_processing.c:229:13:stack_pointer	24	static
-../source/command_processing.c:252:13:hex_dump	48	static
-../source/command_processing.c:323:13:info	16	static

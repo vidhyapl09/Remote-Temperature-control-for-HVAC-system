@@ -1,5 +1,0 @@
-../source/cp.c:27:6:command_process	72	static
-../source/cp.c:87:13:author_func	24	static
-../source/cp.c:99:13:help_func	24	static
-../source/cp.c:112:13:stack_pointer	24	static
-../source/cp.c:130:13:hex_dump	40	static

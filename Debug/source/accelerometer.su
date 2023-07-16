@@ -1,7 +1,0 @@
-../source/accelerometer.c:59:5:init_accelerometer	8	static
-../source/accelerometer.c:75:6:calculate_axes	32	static
-../source/accelerometer.c:113:5:tilt_check	8	static
-../source/accelerometer.c:135:6:get_axes	8	static
-../source/accelerometer.c:142:9:get_x_axis	8	static
-../source/accelerometer.c:147:9:get_y_axis	8	static
-../source/accelerometer.c:152:9:get_z_axis	8	static
