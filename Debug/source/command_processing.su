@@ -1,0 +1,8 @@
+../source/command_processing.c:105:13:my_printf	24	static
+../source/command_processing.c:148:6:command_process	72	static
+../source/command_processing.c:229:13:author_func	24	static
+../source/command_processing.c:250:13:help_func	24	static
+../source/command_processing.c:274:13:temp_func	24	static
+../source/command_processing.c:297:13:acc_func	24	static
+../source/command_processing.c:317:13:motor_control	24	static
+../source/command_processing.c:361:6:user_input	104	static

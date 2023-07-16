@@ -1,0 +1,9 @@
+../source/llfifo.c:62:11:llfifo_create	32	static
+../source/llfifo.c:107:5:llfifo_enqueue	32	static
+../source/llfifo.c:166:6:print_func	24	static
+../source/llfifo.c:188:9:llfifo_dequeue	32	static
+../source/llfifo.c:248:6:llfifo_destroy	24	static
+../source/llfifo.c:276:5:llfifo_length	24	static
+../source/llfifo.c:290:5:llfifo_capacity	24	static
+../source/llfifo.c:302:5:llfifo_Empty	16	static
+../source/llfifo.c:313:5:llfifo_Full	16	static

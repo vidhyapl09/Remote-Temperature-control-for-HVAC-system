@@ -1,0 +1,9 @@
+version := $(shell git --version)
+machine := $(shell hostname)
+date 	 := $(shell date "+%Y-%m-%d_%H:%M:%S")
+commit_id  := $(shell git log --pretty=format:%H HEAD -1)
+
+GEN_OPTS_FLAG += version_d="\"$(version)\"" \
+ 					-Dmachine_d="\"$(machine)\"" \
+ 					-Ddate_d="\"$(date)\"" \
+ 					-Dcommit_id_d="\"$(commit_id)\""

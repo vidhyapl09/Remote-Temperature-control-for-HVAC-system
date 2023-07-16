@@ -1,0 +1,6 @@
+C:\Users\Dell Latitude\Desktop\CUB\PES\1_assignment\6_Assignment\uart_queue\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/systick.c:35:6:Init_SysTick	8	static
+../source/systick.c:51:6:SysTick_Handler	8	static
+../source/systick.c:65:5:now_time	8	static
+../source/systick.c:79:6:reset_timer	8	static
+../source/systick.c:91:5:delay_func	16	static
