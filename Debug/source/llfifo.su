@@ -1,0 +1,5 @@
+../source/llfifo.c:63:11:llfifo_create	32	static
+../source/llfifo.c:106:5:llfifo_enqueue	32	static
+../source/llfifo.c:167:9:llfifo_dequeue	32	static
+../source/llfifo.c:221:5:llfifo_Empty	16	static
+../source/llfifo.c:236:5:llfifo_Full	16	static
